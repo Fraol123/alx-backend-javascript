@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "0-calcul.js",
+  "directories": {
+    "test": "test"
+  },
   "dependencies": {
     "chai": "^4.3.6",
     "express": "^4.17.2",
